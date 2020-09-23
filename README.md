@@ -20,6 +20,7 @@ https://bigdatarpg.com/about/
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=22p22c0053&layout=compact&theme=cobalt" />
 </div>
 
+---
 
 - 🔭 I’m currently working on ..Super AI Engineer
 - 🌱 I’m currently learning ..AI
