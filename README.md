@@ -27,8 +27,6 @@ https://bigdatarpg.com/about/
 ---
 <br>
 <br>
-<br>
-
 
 
 - 🔭 I’m currently working on ..Super AI Engineer
