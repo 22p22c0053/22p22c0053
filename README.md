@@ -9,7 +9,6 @@
 📷 SonyA6300 | LifeStyle | Food | Story-telling\
 💻 Python | R | SQL | SPARK
 
-https://bigdatarpg.com/about/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=22p22c0053&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -34,7 +33,7 @@ https://bigdatarpg.com/about/
 - 👯 I’m looking to collaborate ..on You All 
 - 🤔 I’m looking for help with ..Data Science and Machine Learning
 - 💬 Ask me about ..Everything
-- 📫 How to reach me: ..[千夜一夜物語 !](https://www.facebook.com/bigdatarpg/)
+- 📫 How to reach me: ..[千夜一夜物語 !](https://bigdatarpg.com/about/)
 - 😄 Pronouns: ..スターバースト・ストリーム !!
 - ⚡ Fun fact: ..!?
 
